@@ -1,0 +1,245 @@
+MONKS:
+
+[chanting]
+
+Pie Iesu domine, dona eis requiem.
+
+[bonk]
+
+Pie Iesu domine,...
+
+[bonk]
+
+...dona eis requiem.
+
+[bonk]
+
+Pie Iesu domine,...
+
+[bonk]
+
+...dona eis requiem.
+
+CROWD: A witch! A witch!
+
+[bonk]
+
+A witch! A witch!
+
+MONKS: [chanting] Pie Iesu domine...
+
+CROWD: A witch! A witch! A witch! A witch! We've found a witch! A witch! A witch! A witch! A witch! We've got a witch! A witch! A witch! Burn her! Burn her! Burn her! We've found a witch! We've found a witch! A witch! A witch! A witch!
+
+VILLAGER #1: We have found a witch. May we burn her?
+
+CROWD: Burn her! Burn! Burn her! Burn her!
+
+BEDEVERE: How do you know she is a witch?
+
+VILLAGER #2: She looks like one.
+
+CROWD: Right! Yeah! Yeah!
+
+BEDEVERE: Bring her forward.
+
+WITCH: I'm not a witch. I'm not a witch.
+
+BEDEVERE: Uh, but you are dressed as one.
+
+WITCH: They dressed me up like this.
+
+CROWD: Augh, we didn't! We didn't...
+
+WITCH: And this isn't my nose. It's a false one.
+
+BEDEVERE: Well?
+
+VILLAGER #1: Well, we did do the nose.
+
+BEDEVERE: The nose?
+
+VILLAGER #1: And the hat, but she is a witch!
+
+VILLAGER #2: Yeah!
+
+CROWD: We burn her! Right! Yeaaah! Yeaah!
+
+BEDEVERE: Did you dress her up like this?
+
+VILLAGER #1: No!
+
+VILLAGER #2 and 3: No. No.
+
+VILLAGER #2: No.
+
+VILLAGER #1: No.
+
+VILLAGERS #2 and #3: No.
+
+VILLAGER #1: Yes.
+
+VILLAGER #2: Yes.
+
+VILLAGER #1: Yes. Yeah, a bit.
+
+VILLAGER #3: A bit.
+
+VILLAGERS #1 and #2: A bit.
+
+VILLAGER #3: A bit.
+
+VILLAGER #1: She has got a wart.
+
+RANDOM: [cough]
+
+BEDEVERE: What makes you think she is a witch?
+
+VILLAGER #3: Well, she turned me into a newt.
+
+BEDEVERE: A newt?
+
+VILLAGER #3: I got better.
+
+VILLAGER #2: Burn her anyway!
+
+VILLAGER #1: Burn!
+
+CROWD: Burn her! Burn! Burn her!...
+
+BEDEVERE: Quiet! Quiet! Quiet! Quiet! There are ways of telling whether she is a witch.
+
+VILLAGER #1: Are there?
+
+VILLAGER #2: Ah?
+
+VILLAGER #1: What are they?
+
+CROWD: Tell us! Tell us!...
+
+VILLAGER #2: Do they hurt?
+
+BEDEVERE: Tell me. What do you do with witches?
+
+VILLAGER #2: Burn!
+
+VILLAGER #1: Burn!
+
+CROWD: Burn! Burn them up! Burn!...
+
+BEDEVERE: And what do you burn apart from witches?
+
+VILLAGER #1: More witches!
+
+VILLAGER #3: Shh!
+
+VILLAGER #2: Wood!
+
+BEDEVERE: So, why do witches burn?
+
+[pause]
+
+VILLAGER #3: B--... 'cause they're made of... wood?
+
+BEDEVERE: Good! Heh heh.
+
+CROWD: Oh, yeah. Oh.
+
+BEDEVERE: So, how do we tell whether she is made of wood?
+
+VILLAGER #1: Build a bridge out of her.
+
+BEDEVERE: Ah, but can you not also make bridges out of stone?
+
+VILLAGER #1: Oh, yeah.
+
+RANDOM: Oh, yeah. True. Uhh...
+
+BEDEVERE: Does wood sink in water?
+
+VILLAGER #1: No. No.
+
+VILLAGER #2: No, it floats! It floats!
+
+VILLAGER #1: Throw her into the pond!
+
+CROWD: The pond! Throw her into the pond!
+
+BEDEVERE: What also floats in water?
+
+VILLAGER #1: Bread!
+
+VILLAGER #2: Apples!
+
+VILLAGER #3: Uh, very small rocks!
+
+VILLAGER #1: Cider!
+
+VILLAGER #2: Uh, gra-- gravy!
+
+VILLAGER #1: Cherries!
+
+VILLAGER #2: Mud!
+
+VILLAGER #3: Uh, churches! Churches!
+
+VILLAGER #2: Lead! Lead!
+
+ARTHUR: A duck!
+
+CROWD: Oooh.
+
+BEDEVERE: Exactly. So, logically...
+
+VILLAGER #1: If... she... weighs... the same as a duck,... she's made of wood.
+
+BEDEVERE: And therefore?
+
+VILLAGER #2: A witch!
+
+VILLAGER #1: A witch!
+
+CROWD: A witch! A witch!...
+
+VILLAGER #4: Here is a duck. Use this duck.
+
+[quack quack quack]
+
+BEDEVERE: Very good. We shall use my largest scales.
+
+CROWD: Ohh! Ohh! Burn the witch! Burn the witch! Burn her! Burn her! Burn her! Burn her! Burn her! Burn her! Burn her! Ahh! Ahh...
+
+BEDEVERE: Right. Remove the supports!
+
+[whop]
+
+[clunk]
+
+[creak]
+
+CROWD: A witch! A witch! A witch!
+
+WITCH: It's a fair cop.
+
+VILLAGER #3: Burn her!
+
+CROWD: Burn her! Burn her! Burn her! Burn! Burn!...
+
+BEDEVERE: Who are you who are so wise in the ways of science?
+
+ARTHUR: I am Arthur, King of the Britons.
+
+BEDEVERE: My liege!
+
+ARTHUR: Good Sir Knight, will you come with me to Camelot and join us at the Round Table?
+
+BEDEVERE: My liege! I would be honored.
+
+ARTHUR: What is your name?
+
+BEDEVERE: 'Bedevere', my liege.
+
+ARTHUR: Then I dub you 'Sir Bedemere, Knight of the Round Table'.
+
+Narrative Interlude
+
+NARRATOR: The wise Sir Bedevere was the first to join King Arthur's knights, but other illustrious names were soon to follow: Sir Lancelot the Brave, Sir Gallahad the Pure, and Sir Robin the-not-quite-so-brave-as-Sir-Lancelot, who had nearly fought the Dragon of Angnor, who had nearly stood up to the vicious Chicken of Bristol, and who had personally wet himself at the Battle of Badon Hill, and the aptly named Sir Not-appearing-in-this-film. Together they formed a band whose names and deeds were to be retold throughout the centuries: The Knights of the Round Table.
