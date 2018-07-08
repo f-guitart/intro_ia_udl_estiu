@@ -1,4 +1,5 @@
-# intro_ia_udl_estiu
+# Introducció a la Intel·ligència Artificial (Universitat d'Estiu UdL 2018)
+
 Codi del curs d'Introducció a la IA de la Universitat d'Estiu a la UdL.
 
 Conté els exemples que s'utilitzaran durant les sessions dedicades al processat del llenguatge natural.
@@ -26,6 +27,14 @@ Els scripts estan adaptats del següent enllaç https://cloud.google.com/natural
 * quijote.txt: part del llibre "El ingenioso hidalgo don Quijote de la Mancha" (http://www.cervantesvirtual.com/obra-visor/el-ingenioso-hidalgo-don-quijote-de-la-mancha-6/html/05f86699-4b53-4d9b-8ab8-b40ab63fb0b3_2.html#I_0_)
 
 ## Com utilitzar
+
+Per tal de tenir tot el contingut d'aquest repositori a la vostra consola, podeu fer el següent:
+
+> `git clone https://github.com/f-guitart/intro_ia_udl_estiu.git`
+
+Tot seguit:
+
+> `cd intro_ia_udl_estiu`
 
 En general els Scripts accepten l'opció `-h` per rebre informació de com executar-los.
 
